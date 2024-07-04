@@ -1,0 +1,37 @@
+Trabajo Práctico N° 1 - Git
+
+Nombre y Apellido: Nerea Elías 
+Materia: Diseño de Interfases 3ro.
+Año: 2024
+
+1.¿Que es Git y para qué se utiliza? 
+Git es un sistema de control de vesiones. Se utiliza para guardar un historial completo de todos los cambios realizados en 
+un proyecto. Permite a multiples desarrolladores a trabajar sobre el mismo proyecto simultáneamente.
+Facilita la creación y manejo de diferentes versiones del proyecto, como ramas para nuevas características o correcciones 
+de errores.
+
+2.¿Que es GitHub y cual es su relación con Git?
+Es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar y gestionar sus proyectos de software
+utilizando Git.
+La relación entre GitHub y Git es que GitHub proporciona una interfaz gráfica y herramientas adicionales para facilitar el 
+uso de Git, permitiendo a los equipos colaborar, revisar código, y gestionar proyectos de manera más eficiente.
+
+3.Crea una cuenta en GitHub y configura Git en tu máquina local.
+cuenta de GitHub: https://github.com/nerea02.
+
+4.Crea un nuevo repositorio en GitHub llamado "trabajo-práctico-N1".
+5.Clona el repositorio en tu máquina local.
+6.Agrega tres archivos .txt(a su elección) con contenido.
+7.Realiza un commit con un mensaje descriptivo y luego push los cambios al repositorio remoto en GitHub.
+8.Realiza una modificación en uno de los txt, agrega un nuevo archivo y elimina otro.
+9.Realiza un nuevo commit y push los cambios al repositorio remoto.
+
+10.Explica brevemente los comandos git add, git commit, git push, git pull y git clone.
+git add:Añade cambios en el directorio de trabajo al área de preparación, preparándolos para el siguiente commit.
+git commit:Registra los cambios añadidos al área de preparación en el historial de versiones del repositorio local.
+git push:Envía los commits desde el repositorio local al repositorio remoto, actualizando la copia remota con los cambios locales.
+git pull:Actualiza el repositorio local con los cambios del repositorio remoto, combinando los cambios remotos en la rama actual.
+git clone: Crea una copia local de un repositorio remoto, descargando todos los datos del proyecto en el sistema local.
+
+11. Url de GitHub.
+https://github.com/nerea02.
